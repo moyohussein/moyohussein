@@ -1,7 +1,7 @@
 <img src="/file.svg" width="100%" height="auto">
 
 # Introduction
-Hi there 👋. My name is Hussein Abdulqohar. I am a self-learning programmer specialized in frontend development. For every project I work on, I intend to bring alive beautiful user interfaces while respecting accessibility guidelines and user experience.
+Hi there 👋. My name is Hussein Abdulqohar. I am a self-learning programmer specialized in front end development. For every project I work on, I intend to bring alive beautiful user interfaces while respecting accessibility guidelines and user experience.
 
 ## Website 🌐
 Check out my portfolio website, though still in development [husseinabdulqohar.gtsb.io](https://husseinabdulqohar.gtsb.io/)

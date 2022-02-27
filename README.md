@@ -1,7 +1,9 @@
 # Hi there 👋
 
 <svg class="container" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none">
-<style>@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');.container{
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+.container{
   width: 100vw;
   height: 250px;
   font-family: Monoton;
@@ -45,3 +47,5 @@
   <use href="#s-text" class="text"></use>
  </g>
 </svg>
+
+<img src="https://olivermak.es/resources/icons/favicon144.svg" width="100%" height="144">

@@ -5,6 +5,7 @@
 .container{
   width: max-content;
   height: auto;
+  font-family: Ubuntu;
 }.text {
   fill: none;
   stroke: white;

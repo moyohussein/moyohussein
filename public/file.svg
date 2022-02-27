@@ -1,7 +1,12 @@
 <svg class="container" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none">
-<style>.container{
+
+<defs>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Monoton');
+.container{
   width: 100vw;
   height: 250px;
+  font-family: Monoton;
 }.text {
   fill: none;
   stroke: white;
@@ -30,7 +35,10 @@
   100% {
     stroke-dashoffset: -35%;
   }
-}</style>
+}
+</style> 
+</defs>
+
  <symbol id="s-text">
   <text textLength="99%" x="0%" y="50%">Hussein Abdulqohar</text>
  </symbol>

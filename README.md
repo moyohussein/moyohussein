@@ -1,4 +1,3 @@
 # Hi there 👋
 
-
-![Hussein Abdulqohar](/public/file.svg "Hussein Abdulqohar")
+<img src="/public/file.svg" width="100%" height="auto">

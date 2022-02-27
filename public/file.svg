@@ -3,7 +3,7 @@
 <defs>
 <style>
 .container{
-  width: 100%;
+  width: max-content;
   height: auto;
 }.text {
   fill: none;
@@ -39,7 +39,7 @@
 </defs>
 
  <symbol id="s-text">
-  <text textLength="100%" x="0%" y="50%">Hussein Abdulqohar</text>
+  <text textLength="100%" dominant-baseline="middle" text-anchor="middle" x="50%" y="50%">Hussein Abdulqohar</text>
  </symbol>
  <g>
   <use href="#s-text" class="text"></use>

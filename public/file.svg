@@ -3,13 +3,14 @@
 <defs>
 <style>
 .container{
-  width: 100vw;
-  height: 250px;
+  width: 100%;
+  height: auto;
 }.text {
   fill: none;
   stroke: white;
   stroke-dasharray: 8% 29%;
   font-size: 5.8vw;
+  font-weight: 900;
   stroke-width: 1px;
   stroke-dashoffset: 1%;
   text-transform: uppercase;
@@ -38,7 +39,7 @@
 </defs>
 
  <symbol id="s-text">
-  <text textLength="99%" x="0%" y="50%">Hussein Abdulqohar</text>
+  <text textLength="100%" x="0%" y="50%">Hussein Abdulqohar</text>
  </symbol>
  <g>
   <use href="#s-text" class="text"></use>

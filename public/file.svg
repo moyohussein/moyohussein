@@ -2,7 +2,7 @@
 
 <defs>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Monoton');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
 .container{
   width: 100vw;
   height: 250px;

@@ -1,34 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hi there 👋
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<svg class="container" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none">
+<style>@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');.container{
+  width: 100vw;
+  height: 250px;
+  font-family: Monoton;
+}.text {
+  fill: none;
+  stroke: white;
+  stroke-dasharray: 8% 29%;
+  font-size: 5.8vw;
+  stroke-width: 1px;
+  stroke-dashoffset: 1%;
+  text-transform: uppercase;
+  animation: stroke-offset 5.5s infinite linear;
+}.text:nth-child(1){
+  stroke: #752092;
+  animation-delay: -1;
+}.text:nth-child(2){
+  stroke: #c957bc;
+  animation-delay: -2s;
+}.text:nth-child(3){
+  stroke: #ffc872;
+  animation-delay: -3s;
+}.text:nth-child(4){
+  stroke: #ffe3b3;
+  animation-delay: -4s;
+}.text:nth-child(5){
+  stroke: #fff;
+  animation-delay: -5s;
+}@keyframes stroke-offset{
+  100% {
+    stroke-dashoffset: -35%;
+  }
+}</style>
+ <symbol id="s-text">
+  <text textLength="99%" x="0%" y="50%">Hussein Abdulqohar</text>
+ </symbol>
+ <g>
+  <use href="#s-text" class="text"></use>
+  <use href="#s-text" class="text"></use>
+  <use href="#s-text" class="text"></use>
+  <use href="#s-text" class="text"></use>
+  <use href="#s-text" class="text"></use>
+ </g>
+</svg>

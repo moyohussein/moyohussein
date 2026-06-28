@@ -16,7 +16,7 @@ Five years shipping frontend across healthcare, fintech, and AI products. Curren
 
 **Business OS** — Multi-tenant AI agent platform. One Durable Object AgentSession per tenant, streaming agent responses with mid-stream tool invocations, Kimi K2.5 via Cloudflare AI Gateway.
 
-**CargoSight** — Real-time operational forecasting dashboard for Turkish Cargo, submitted to the Turkish Airlines Terminal Startup Accelerator 2026.
+**DNA Lab Simulation** — Browser-based interactive laboratory environment built in React + TypeScript. Each piece of lab equipment (centrifuge, microtube rack, NanoDrop monitor, mortar and pestle, reagent bottles) is an SVG component driven by a state machine with Zustand store integration — animations reflect real lab workflow sequences, not just visual polish.
 
 ---
 
